@@ -12,7 +12,6 @@ Repo: https://github.com/Aikofarfa/TROUBLESHOOTER2
 
 Cada ticket se envía a **sebascastroj70@gmail.com** (FormSubmit).
 
-**La primera vez** FormSubmit manda un correo de *activación* a esa cuenta. Ábrelo (mira también Spam) y pulsa **Confirm form**. A partir de ahí, cada reporte llega solo.
 
 ## Cómo usarlo
 
